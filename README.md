@@ -4,7 +4,7 @@ A cinematic cyberpunk theme for [Omarchy](https://omarchy.org): deep teal-black
 nights cut by one strike of burnt orange. Inspired by the color language of a
 certain 2017 neo-noir film — cold rain-soaked streets, warm neon, and fog.
 
-![2049 wallpaper](backgrounds/2049-crossing.png)
+![2049 wallpaper](backgrounds/2049-crossing.webp)
 
 ## Install
 
